@@ -1,0 +1,13 @@
+{
+    "name": "Build_a_Quiz_App_with_HTML__CSS__and_JavaScript",
+    "version": "1.0.0",
+    "main": "path/to/main.css",
+    "ignore": [
+        ".jshintrc",
+        "**/*.txt"
+    ],
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+}
